@@ -5,17 +5,21 @@
 
 <!DOCTYPE html>
 <html>
-      <head>
-            <title>Пример</title>
-      </head>
-      <body>
 
-            <?php 
+<head>
 
-            echo "Привет, я - скрипт PHP!";
-            
-            ?>
+<title>Пример</title>
 
-      </body>
+</head>
+
+<body>
+      
+<?php 
+
+           echo "Привет, я - скрипт PHP!";
+        
+?>
+
+</body>
 </html>
 
